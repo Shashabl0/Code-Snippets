@@ -1,0 +1,14 @@
+This folder will contains all the short algo/tricks which will help in CP. I should have made this folder earlier 
+but never-the-less. So lets begin...
+
+
+inverse doesn't exists (GCD of b and m is not 1),
+
+
+
+**tricks in vscode
+    cntrl + c,cntrl + d to copy line below
+    ctrl + d for multiple cursor, esc to exist
+    
+
+
